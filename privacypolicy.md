@@ -1,10 +1,9 @@
 Privacy Policy and Consent To Participate in a Research Study
-=
+==
 
 We created Speechblocks so that children can explore the letters and sounds that comprise language through a playful learning experience. The purpose of this study is to first help us understand how children use our app, SpeechBlocks in the home, and second, examine how we can best loop parents by providing information about their children’s play within SpeechBlocks. We understand how important privacy is to our community, especially children and their parents. We wrote this privacy policy to explain what information we collect, how we use it, and what we're doing to keep it safe. If you have any questions regarding this privacy policy, you can contact us at playfulwords@media.mit.edu.
 
-Consent to participate in a research study
-==
+### Consent to participate in a research study
 Your participation in this study is completely voluntary and you are free to choose whether to be in it or not. By accepting these terms on the SpeechBlocks app, you consent to be part of this study. If you choose to be in this study, you may subsequently withdraw from it at any time without penalty or consequences of any kind by emailing us at [playfulwords@media.mit.edu](mailto:playfulwords@media.mit.edu).
 
 As a participant in this study, we ask that you, the parent, give us permission to collect information about how your child interacts with the Speechblocks app and allow a researcher ("Speechblocks Literacy Coach") to communicate with you regarding your child’s progress on Speechblocks. This communication will be in the form of email or text message and you will be given a choice of which medium during an in-person conversation with the researcher. Throughout anytime in the study, you are welcome to give feedback on your experiences via email or phone. The frequency of communication between you and the SpeechBlocks Literacy Coach will be dependent on how often your child plays with SpeechBlocks. If you ever want to decrease or stop the amount of communication between you and the SpeechBlocks Literacy Coach, you can let us know by email or text. You can also choose to change your communication medium preference, opt-out of communication with a SpeechBlocks Literacy Coach, or opt-out of the study at any time without consequence, by emailing us at playfulwords@media.mit.edu. There will be no monetary compensation given for participation in this study. If you have any questions or concerns about the study, please email the research team at [playfulwords@media.mit.edu](mailto:playfulwords@media.mit.edu).
@@ -13,16 +12,14 @@ The duration of the study is ten weeks, but your child is welcome to continue pl
 
 If you are borrowing an Android device from the Laboratory for Social Machines research group, you are responsible for the use and care of the device during the study. If there is any damage to the device outside of regular use, please immediately contact the research team at [playfulwords@media.mit.edu](mailto:playfulwords@media.mit.edu).
 
-What information does Speechblocks collect?
-==
+### What information does Speechblocks collect?
 We collect some data on where you click and which parts of the app you use. This "click data" helps us figure out ways to improve the app, to understand how your child plays with the app, and to conduct research to find patterns to share with you about your child’s progress. Please note that all click data is de-identified and anonymous. The click data is associated with a unique device number, and does not contain any personally identifiable information about your child. The click data will be stored on a secure server (Amazon Web Services), and will only be accessed by the researchers on this project. All information will be stored for up to three years after the completion of this study. After three years, all data from this study will be deleted from the server. 
 
 We may also collect other information you (the parent) directly provide to researchers, such as when you send us an email, fill out a form, provide or request information, or otherwise submit information during the study. Such information may include personal information such as your name, email, and telephone number. In addition, from time to time we may collect demographic and personal information you provide in connection with your participation in surveys and other activities in connection with the Service. All email/SMS correspondence between you and the SpeechBlocks Literacy Coach will be immediately de-identified and stored on a password-protected computer. Please note that no personally identifying information will be linked with your child at all and the app will not collect any data outside of this study (i.e. calls, SMS, etc.)
 
 Although Speechblocks uses an outside service provider, the Acapela Group, for speech synthesis, Speechblocks does not share any personally identifiable information it collects with the Acapela Group, and the Acapela Group does not collect any personal identifying information about you.
 
-How does the Speechblocks Team use the information it collects?
-==
+### How does the Speechblocks Team use the information it collects?
 * We may use the information in research studies intended to improve our understanding of how people learn with Speechblocks. The results of this research are shared with educators and researchers through conferences, journals, and other publications.
 * We analyze the information to understand and improve Speechblocks, such as determining which pre-made words are most popular, which sounds are most used, and how long users spend in the app.
 * Other than the cases described above, we will never share personally identifiable information about you with any other person, company, or organization, except:
