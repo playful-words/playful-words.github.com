@@ -1,5 +1,4 @@
-Privacy Policy and Consent To Participate in a Research Study
-==
+## Privacy Policy and Consent To Participate in a Research Study
 
 We created Speechblocks so that children can explore the letters and sounds that comprise language through a playful learning experience. The purpose of this study is to first help us understand how children use our app, SpeechBlocks in the home, and second, examine how we can best loop parents by providing information about their children’s play within SpeechBlocks. We understand how important privacy is to our community, especially children and their parents. We wrote this privacy policy to explain what information we collect, how we use it, and what we're doing to keep it safe. If you have any questions regarding this privacy policy, you can contact us at playfulwords@media.mit.edu.
 
