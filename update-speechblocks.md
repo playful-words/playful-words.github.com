@@ -6,7 +6,7 @@ Hooray! There is a new update to the SpeechBlocks app. But how to download it? W
 
 2. Exit out of the Kids Place app using the code provided to you during the pre-participation workshop.
 
-<table>
+<table style="border: 0px;">
 	<tr>
 		<td>
 			<center><img src="/images/play-store-update/kids-place.png" width="200"></center>
