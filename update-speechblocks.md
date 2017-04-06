@@ -5,7 +5,17 @@ Hooray! There is a new update to the SpeechBlocks app. But how to download it? W
 1. Make sure your SpeechBlocks phone is connected to your WIFI.
 
 2. Exit out of the Kids Place app using the code provided to you during the pre-participation workshop.
-[Insert image]
+
+<table>
+	<tr>
+		<td>
+			<center><img src="/images/play-store-update/kids-place.png" width="200"></center>
+		</td>
+		<td>
+			<center><img src="/images/play-store-update/exit-kids-place.png" width="200"></center>
+		</td>
+	</tr>
+</table>
 
 3. Go to the Google Play Store app. It's icon looks like this and it should be on the home screen.
 
