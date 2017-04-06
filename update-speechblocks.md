@@ -31,5 +31,5 @@ Hooray! There is a new update to the SpeechBlocks app. But how to download it? W
 <br><br>
 6. Under "updates, select the SpeechBlocks app
 
-7. Click the "update" button
+7. Click the "update" button and wait for SpeechBlocks to update :)
 
