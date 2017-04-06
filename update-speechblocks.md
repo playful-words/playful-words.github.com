@@ -10,15 +10,15 @@ Hooray! There is a new update to the SpeechBlocks app. But how to download it? W
 3. Go to the Google Play Store app. It's icon looks like this and it should be on the home screen.
 
 <center><img src="/images/play-store-update/home-screen.png" width="200"></center>
-
+<br><br>
 4. Click on the three horizontal bars on the upper-left side of the screen to see the side-menu
 
 <center><img src="/images/play-store-update/play-store.png" width="200"></center>
-
+<br><br>
 5. Click on the "my apps and games" button on the side-menu
 
 <center><img src="/images/play-store-update/play-store-sidebar.png" width="200"></center>
-
+<br><br>
 6. Under "updates, select the SpeechBlocks app
 
 7. Click the "update" button
