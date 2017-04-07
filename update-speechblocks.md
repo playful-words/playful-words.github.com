@@ -29,7 +29,7 @@ Hooray! There is a new update to the SpeechBlocks app. But how to download it? W
 
 <center><img src="/images/play-store-update/play-store-sidebar.png" width="200"></center>
 <br><br>
-6. Under "updates, select the SpeechBlocks app
+6. Under "updates", select the SpeechBlocks app
 
 7. Click the "update" button and wait for SpeechBlocks to update :)
 
