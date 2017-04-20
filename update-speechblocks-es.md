@@ -4,7 +4,7 @@ Hurra! Hay una nueva actualization de la aplicación SpeechBlocks. Pero como des
 
 1) Asegurase que su teléfono de SpeechBlocks esté conectado al WIFI.
 
-2) Salir de la aplicación de Kids Place usando el código proporcionado a usted durante el taller de participación. 
+2) Salir de la aplicación de Kids Place usando el número de PIN proporcionado a usted durante el taller de participación. El número de PIN es 5376.
 
 <table style="border: 0px;">
 	<tr>

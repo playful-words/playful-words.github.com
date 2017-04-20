@@ -4,7 +4,7 @@ Hooray! There is a new update to the SpeechBlocks app. But how to download it? W
 
 1) Make sure your SpeechBlocks phone is connected to your WIFI.
 
-2) Exit out of the Kids Place app using the code provided to you during the pre-participation workshop.
+2) Exit out of the Kids Place app using the PIN number provided to you during the pre-participation workshop. The PIN number is 5376.
 
 <table style="border: 0px;">
 	<tr>
