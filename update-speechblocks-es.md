@@ -33,7 +33,7 @@ Hurra! Hay una nueva actualization de la aplicación SpeechBlocks. Pero como des
 
 <center><img src="/images/play-store-update/play-store-updates.png" width="200"></center>
 <br><br>
-7) Hacer clic en el botón de "update" (actualizar) y esperar que la aplicación de SpeechBlocks se actualize :)
+7) Hacer clic en el botón de "update" (actualizar). Siguiente hacer clic en el botón de "accept" (aceptar) y esperar que la aplicación de SpeechBlocks se actualize :)
 
 <center><img src="/images/play-store-update/speechblocks-update.png" width="200"></center>
 <br><br>
