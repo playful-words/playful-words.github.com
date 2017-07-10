@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Playful Words
 playstoreurl: "https://play.google.com/store?hl=en"
 orgwebsite: "http://socialmachines.media.mit.edu"
+include: ["_projects"]
