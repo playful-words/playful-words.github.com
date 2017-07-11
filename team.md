@@ -87,5 +87,5 @@
 ## Undergraduate Researchers
 Jamie Chang (Undergraduate Student, MIT)
 
-## Alumni
+## Past Contributors
 Juanita Buitrago (Masters Student, Harvard Graduate School of Education), Saul Woolf (Undergraduate Student, WPI)
