@@ -7,7 +7,4 @@ permalink: /research-directions/family-learning-coach
 
 Coming soon...
 
-#### 826 Boston Pilot
-
-#### Collaborators
-<!-- <img src ="/images/826-boston-logo.jpg" width="100px"> -->
+<!-- #### 826 Boston Pilot -->
