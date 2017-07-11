@@ -6,3 +6,7 @@ permalink: /research-directions/storyblocks
 *Anneli Hershman, Marc Exposito, Juliana Nazaré, and Saul Woolf*
 
 StoryBlocks is a smart-expressive medium, designed in collaboration with Sesame Workshop, that aims to bring a new level of interactivity into children’s educational media and stories while promoting empathy, social-emotional development, and literacy development through storytelling. In StoryBlocks, children transition between an animated narrative that sets up a social conflict, and an interactive comic-style composition that allows children to construct their own solutions and share their stories while engaging in critical thinking and reflection. 
+
+![StoryBlocks App](/images/projects/storyblocks/storyblocks.png)
+
+__Collaborators at Sesame Workshop:__ Jim Gray, Jordan Geary, Andrea Palumbos, and Franco Schettino
