@@ -71,7 +71,7 @@
 			<img src="/images/team/marc-exposito.jpg" width="100px">
 		</td>
 		<td>
-			<strong>Marc Expostio</strong><br>Masters Student
+			<strong>Marc Exposito</strong><br>Masters Student
 		</td>
 	</tr>
 	<tr>
