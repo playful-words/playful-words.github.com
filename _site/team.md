@@ -71,7 +71,7 @@
 			<img src="/images/team/marc-exposito.jpg" width="100px">
 		</td>
 		<td>
-			<strong>Marc Expostio</strong><br>Masters Student
+			<strong>Marc Exposito</strong><br>Masters Student
 		</td>
 	</tr>
 	<tr>
@@ -87,5 +87,5 @@
 ## Undergraduate Researchers
 Jamie Chang (Undergraduate Student, MIT)
 
-## Alumni
+## Past Contributors
 Juanita Buitrago (Masters Student, Harvard Graduate School of Education), Saul Woolf (Undergraduate Student, WPI)
