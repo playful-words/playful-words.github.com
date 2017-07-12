@@ -46,9 +46,8 @@ __[Family Learning Coach](/research-directions/family-learning-coach)__ -  Creat
 
 __[ChatterBox](/research-directions/chatterbox)__ - Speech synthesis in tutor mode
 
+<hr>
 
-
-<br>
 #### PAST PROJECTS
 
 __[SpeechStickers](/research-directions/speechstickers)__
