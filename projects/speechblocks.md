@@ -9,6 +9,9 @@ SpeechBlocks is a self-expressive literacy app that helps young children explore
 
 ### SpeechBlocks Introductory Experience
 
+<div id="scaffolding"></div>
+### SpeechBlocks: Scaffolding
+
 ### Social SpeechBlocks: Word Pong
 
 We are experimenting with ways to incorporate social elements into our SpeechBlocks prototype to add meaningful ways for children to interact within the app. In this video, you can see children sending their words to one another through characters.
