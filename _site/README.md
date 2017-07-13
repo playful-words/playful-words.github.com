@@ -3,6 +3,8 @@ While there are a number of literacy technology solutions developed for individu
 
 By designing an approach that is child-driven and machine-guided, we hope to empower human learning networks in order to establish an engaging and effective medium for literacy development while enhancing personal, creative, and expressive interactions within communities. We aim to create a network of learners to engage students from different communities in socially collaborative, self-expressive, and playful literacy learning opportunities via mobile devices.
 
+![social-literacy-learning-machine](/images/pw-system-new.png)
+
 <strong>[See our current research directions](/research-directions/overview)</strong>
 
 

@@ -5,16 +5,7 @@ permalink: /research-directions/overview
 
 ## Research
 
-### Framework of our social literacy learning machine
-While there are a number of literacy technology solutions developed for individuals, the role of social—or networked—literacy learning is less explored. We believe that literacy is an inherently social activity that is best learned within a supportive community network including peers, teachers, and parents.
-
-By designing an approach that is child-driven and machine-guided, we hope to empower human learning networks in order to establish an engaging and effective medium for literacy development while enhancing personal, creative, and expressive interactions within communities. We aim to create a network of learners to engage students from different communities in socially collaborative, self-expressive, and playful literacy learning opportunities via mobile devices.
-
-![social-literacy-learning-machine](/images/pw-system-new.png)
-<br><br>
-
-### Projects
-We are currently working on projects in three major areas of this social literacy learning machine: smart-expressive mediums, play analytics, and coaching roles and tools.
+We are currently working on projects in three major areas of social literacy learning: smart-expressive mediums, play analytics, and coaching roles and tools.
 
 
 <div id="smart-expressive-mediums"></div>
