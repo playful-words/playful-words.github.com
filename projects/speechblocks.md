@@ -22,6 +22,9 @@ To facilitate introduction of SpeechBlocks outside of the lab context, we experi
 
 Intellectual growth of a child occurs largely within the Zone of Proximal Development - a range of activities that s/he cannot do on her/his own, but can do with some assistance (called scaffolding). We experiment with providing such assistance in SpeechBlocks. Our system guides the child through spelling of a word by providing hints that highlight the connection between units of pronunciation and units of spelling. The scaffolding was designed to minimally interfere with the freedom of play, and can be ignored by the child at any moment. It is important that the words which the system presents to the child match the child's interests. Currently we use the words suggested by a human literacy expert who analyzes the child's play. However, we are exploring other sources of scaffolding input, such as optical character recognition and speech recognition.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-soTTLXnVg" frameborder="0" allowfullscreen></iframe>
+
 ### Social SpeechBlocks: Word Pong
+[not currently in-progress]
 
 We are experimenting with ways to incorporate social elements into our SpeechBlocks prototype to add meaningful ways for children to interact within the app. In this video, you can see children sending their words to one another through characters.
