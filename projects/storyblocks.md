@@ -1,5 +1,5 @@
 ---
-permalink: /research-directions/storyblocks
+permalink: /research/storyblocks
 ---
 
 ## StoryBlocks

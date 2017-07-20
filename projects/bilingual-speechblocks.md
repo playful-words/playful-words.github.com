@@ -1,5 +1,5 @@
 ---
-permalink: /research-directions/bilingual-speechblocks
+permalink: /research/bilingual-speechblocks
 ---
 
 ## Bilingual SpeechBlocks

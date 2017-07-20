@@ -1,5 +1,5 @@
 ---
-permalink: /research-directions/chatterbox
+permalink: /research/chatterbox
 ---
 
 ## ChatterBox

@@ -1,5 +1,5 @@
 ---
-permalink: /research-directions/pictureblocks
+permalink: /research/pictureblocks
 ---
 
 ## PictureBlocks

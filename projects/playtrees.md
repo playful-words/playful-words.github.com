@@ -1,5 +1,5 @@
 ---
-permalink: /research-directions/playtrees
+permalink: /research/playtrees
 ---
 
 ## PlayTrees

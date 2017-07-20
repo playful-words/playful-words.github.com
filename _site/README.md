@@ -5,7 +5,7 @@ By designing an approach that is child-driven and machine-guided, we hope to emp
 
 ![social-literacy-learning-machine](/images/pw-system-new.png)
 
-<strong>[See our current research directions](/research-directions/overview)</strong>
+<strong>[See our current research directions](/research/overview)</strong>
 
 
 ### Contact

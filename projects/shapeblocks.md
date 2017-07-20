@@ -1,5 +1,5 @@
 ---
-permalink: /research-directions/shapeblocks
+permalink: /research/shapeblocks
 ---
 
 ## ShapeBlocks

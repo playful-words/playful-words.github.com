@@ -1,5 +1,5 @@
 ---
-permalink: /research-directions/speechblocks
+permalink: /research/speechblocks
 ---
 
 ## SpeechBlocks

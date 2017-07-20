@@ -1,5 +1,5 @@
 ---
-permalink: /research-directions/speechstickers
+permalink: /research/speechstickers
 ---
 
 ## SpeechStickers
