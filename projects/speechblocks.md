@@ -9,6 +9,8 @@ permalink: /research-directions/speechblocks
 
 SpeechBlocks is a smartphone app that allows children to explore spelling principles in an open-ended way. Children rearrange letter combinations ("words") by pulling them apart and putting them together with their fingers. Each word is then pronounced aloud by a speech synthesizer. This interaction was informed by findings in the research area of Early Literacy Learning. To alleviate the fear of making a mistake and support free and fun exploration, we excluded the notion of "right" and "wrong" from our design: nonsense words are pronounced just as well as regular words, much to children's amusement. While the app is intended to help children to acquire basic reading and writing skills, it also turned out to be a medium for children's self-expression and creativity. We conducted several studies with children using SpeechBlocks and found that (a) the app facilitated children’s engagement, sense of authorship and self-efficacy, and (b) it evoked significant amount of social interactions between children around literacy activities.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eQmpQYfhUf0" frameborder="0" allowfullscreen></iframe>
+
 ### SpeechBlocks Introductory Experience
 
 To facilitate introduction of SpeechBlocks outside of the lab context, we experimented with introductory experience that helps children figure out how to use the app.
