@@ -1,7 +1,7 @@
 ## Publications
 
 ### 2017
-Ivan Sysoev, Anneli Hershman, Susan Fine, Claire Traweek, and Deb Roy. (2017). SpeechBlocks: a Constructionist Early Literacy App. Proceedings of 16th Interaction Design and Children conference (IDC). ACM. (2017). [PDF](/papers/speechblocks-final.pdf) 
+Ivan Sysoev, Anneli Hershman, Susan Fine, Claire Traweek, and Deb Roy. (2017). SpeechBlocks: a Constructionist Early Literacy App. In Proceedings of the 16th International Conference on Interaction Design and Children (IDC). ACM, Palto Alto, CA, pp. 248-257. [PDF](/papers/speechblocks-final.pdf) 
 
 ### 2016
 Ivan Sysoev, Anneli Hershman, Susan Fine, Deb Roy, Mina Soltangheis, and Brianne Fitzpatrick. (2016). Exploring SpeechBlocks: Piloting a Constructionist Literacy App with Preschool Children. Presented at the 2016 American Speech-Language-Hearing Association (ASHA) Conference. Philadelphia, PA. [PDF](/papers/AshaPaperFinal.pdf)
