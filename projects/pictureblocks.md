@@ -11,10 +11,10 @@ One of the strongest observations in child language learning is that for a new w
 
 <table>
 	<tr>
-		<td width="50%">
+		<td width="50%" style="border: 0px !important;">
 			<img src="/images/projects/pictureblocks/owl.png" width="100%">
 		</td>
-		<td width="50%">
+		<td width="50%" style="border: 0px !important;">
 			<img src="/images/projects/pictureblocks/word_associations.png" width="100%">
 		</td>
 	</tr>

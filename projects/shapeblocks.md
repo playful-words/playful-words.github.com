@@ -11,3 +11,18 @@ ShapeBlocks are instrumented blocks that track, remember, and aid players in bui
 
 Other use cases include urban design, music composition, and interactive strategy games and/or storytelling experiences that fuse the physical and virtual world together.
 
+<table style="border: 0px !important;">
+	<tr>
+		<td width="50%" style="border: 0px !important;">
+			<img src="/images/projects/shapeblocks/shapeblocks_letters1.jpg" width="100%">
+		</td>
+		<td width="50%" style="border: 0px !important;">
+			<img src="/images/projects/shapeblocks/shapeblocks_letters2.jpg" width="100%">
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" style="border: 0px !important;">
+			<img src="/images/projects/shapeblocks/shapeblocks_letters3.jpg" width="100%">
+		</td>
+	</tr>
+</table>
