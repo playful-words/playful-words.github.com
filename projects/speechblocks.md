@@ -11,6 +11,7 @@ SpeechBlocks is a smartphone app that allows children to explore spelling princi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eQmpQYfhUf0" frameborder="0" allowfullscreen></iframe>
 
+__Collaborators:__ Susan Fine, 826Boston 
 
 ### SpeechBlocks Introductory Experience
 
@@ -29,3 +30,4 @@ The following video shows a first version of how scaffolding in SpeechBlocks.
 [not currently in-progress]
 
 We are experimenting with ways to incorporate social elements into our SpeechBlocks prototype to add meaningful ways for children to interact within the app. In this video, you can see children sending their words to one another through characters.
+ 
