@@ -84,6 +84,26 @@
 	</tr>
 </table>
 
+## Collaborators
+<table>
+	<tr>
+		<td width="100px">
+			<img src="/images/team/susan_fine.jpg" width="100px">
+		</td>
+		<td>
+			<strong>Susan Fine, MA CCC-SLP</strong><br><a href="https://bouve.northeastern.edu/directory/susan-fine/">Website</a>
+		</td>
+	</tr>
+	<tr>
+		<td width="100px">
+			<img src="/images/team/826-boston-logo.jpg" width="100px">
+		</td>
+		<td>
+			<strong>826 Boston</strong><br><a href="http://826boston.org">Website</a>
+		</td>
+	</tr>
+</table>
+
 ## Undergraduate Researchers
 Jamie Chang (Undergraduate Student, MIT)
 
