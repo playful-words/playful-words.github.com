@@ -11,8 +11,9 @@ StoryBlocks is a smart-expressive medium, designed in collaboration with Sesame 
 
 ![StoryBlocks App](/images/projects/storyblocks/storyblocks.png)
 
-Here is an example clip of the animated video within StoryBlocks. This clip gives you a sample of the transition periods, when the characters talk directly with the user, and the narrative period, where the characters act out their story. This animation is uses physical cut-outs and stop-motion animations with digitally animated faces overlaid onto the characters.​
+Here is an example clip of the animated video within StoryBlocks. This clip gives you a sample of the transition periods, when the characters talk directly with the user, and the narrative period, where the characters act out their story. This animation uses a combination of physical cut-outs, stop-motion, and digitally animated faces overlaid onto the characters.​
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dkDadK2ctA0" frameborder="0" allowfullscreen></iframe>
+*Animated by Saul Woolf*
 
 __Collaborators at Sesame Workshop:__ Jim Gray, Jordan Geary, Andrea Palumbos, and Franco Schettino
