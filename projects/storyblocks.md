@@ -3,7 +3,7 @@ permalink: /research/storyblocks
 ---
 
 ## StoryBlocks
-*Anneli Hershman, Marc Exposito, Juliana Nazaré, and Saul Woolf*
+*Anneli Hershman, Marc Exposito, and Juliana Nazaré*
 
 [Currently in development]
 
