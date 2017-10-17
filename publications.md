@@ -10,5 +10,5 @@ Ivan Sysoev, Anneli Hershman, Susan Fine, Deb Roy, Mina Soltangheis, and Brianne
 
 Anneli Hershman, Ivan Sysoev, and Deb Roy. (2016). SpeechBlocks: Using Literacy Apps as Building Blocks to Analyze Play. Presented at the Conference for Digital Media and Learning (DML). Irvine, CA. [PDF](/papers/DMLAbstract.pdf)
 
-\*\These authors contributed equally to this work.
+\* These authors contributed equally to this work.
 <hr>
