@@ -108,4 +108,4 @@
 Jamie Chang (Undergraduate Student, MIT)
 
 ## Past Contributors
-Juanita Buitrago (Masters Student, Harvard Graduate School of Education), Saul Woolf (Undergraduate Student, WPI)
+Juanita Buitrago (Masters Student, Harvard Graduate School of Education), Saul Woolf (Undergraduate Student, WPI), Claire Traweek (Undergraduate Student, MIT)
