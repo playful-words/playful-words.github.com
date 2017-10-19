@@ -20,13 +20,16 @@ In their play with SpeechBlocks, children often want to spell specific words. If
 ### Social SpeechBlocks: Word Pong
 [Currently on hold]
 
-We are experimenting with ways to incorporate social elements into our SpeechBlocks prototype to add meaningful ways for children to interact within the app. In this video, you can see children sending their words to one another. A character, representing the child's avatar on his/her friend phone, is then pronounces the word aloud.
+We are experimenting with ways to incorporate social elements into our SpeechBlocks prototype to add meaningful ways for children to interact within the app. In this video, you can see children sending their words to one another. A character, which is the child's avatar on his/her friend phone, then pronounces the word aloud.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1hJCZQLppZI" frameborder="0" allowfullscreen></iframe>
  
 __SpeechBlocks Collaborators:__ Susan Fine, MA CCC-SLP and [826 Boston](http://www.826boston.org/)
 
 __Projects building on SpeechBlocks:__
+
 [Bilingual SpeechBlocks](projects/bilingual-speechblocks) - modifying SpeechBlocks to help bilingual Spanish-English speaking children differentiate between letter-to-sound mappings in their two languages
+
 [PlayTrees](/projects/playtrees) - visualizing children's play with SpeechBlocks
+
 [Literacy coaches](/projects/family-learning-coach) - creating supportive environment around the learner
