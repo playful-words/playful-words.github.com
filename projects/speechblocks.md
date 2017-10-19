@@ -7,26 +7,21 @@ permalink: /research/speechblocks
 
 [Currently in-progress]
 
-SpeechBlocks is a smartphone app that allows children to explore spelling principles in an open-ended way. Children rearrange letter combinations ("words") by pulling them apart and putting them together with their fingers. Each word is then pronounced aloud by a speech synthesizer. This interaction was informed by findings in the research area of Early Literacy Learning. To alleviate the fear of making a mistake and support free and fun exploration, we excluded the notion of "right" and "wrong" from our design: nonsense words are pronounced just as well as regular words, much to children's amusement. While the app is intended to help children to acquire basic reading and writing skills, it also turned out to be a medium for children's self-expression and creativity. We conducted several studies with children using SpeechBlocks and found that (a) the app facilitated children’s engagement, sense of authorship and self-efficacy, and (b) it evoked significant amount of social interactions between children around literacy activities.
+SpeechBlocks is a smartphone app that allows children to explore spelling principles in an open-ended way. Children rearrange letter combinations ("words") by pulling them apart and putting them together with their fingers. Each word is then pronounced aloud by a speech synthesizer. This interaction was informed by current research findings in the area of early literacy learning. To alleviate the fear of making a mistake and support free and fun exploration, we excluded the notion of "right" and "wrong" from our design: nonsense words are pronounced just as well as regular words, much to children's amusement. While the app is intended to help children acquire basic reading and writing skills, it also turned out to be a medium for children's self-expression and creativity. We conducted several studies with children using SpeechBlocks and found that (a) the app facilitated children’s engagement, sense of authorship and self-efficacy, and (b) it evoked significant amount of social interactions between children around literacy activities. Please [see our last paper](https://doi.org/10.1145/3116595.3116616) for details.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eQmpQYfhUf0" frameborder="0" allowfullscreen></iframe> 
 
-### SpeechBlocks Introductory Experience
+### Guided SpeechBlocks
 
-To facilitate introduction of SpeechBlocks outside of the lab context, we experimented with introductory experience that helps children figure out how to use the app.
+In their play with SpeechBlocks, children often want to spell specific words. If adults are available, they ask them for help. Such interactions present valuable learning opportunities, as children skills grow largerly within the zone of proximate development - the range of activities that s/he cannot do on her/his own, but can do with some assistance. But what if there is no adult around willing to spare time and provide such assistance? We experiment with the app guiding to the child on its own. It learns about the word that child wants to spell through one of the input channels (such as optical character recognition, as in the video below). It then helps to spell the word by highlight the connection between sounds and letter combinations. 
 
-<div id="scaffolding"></div>
-
-### SpeechBlocks: Scaffolding
-
-Intellectual growth of a child occurs largely within the Zone of Proximal Development - a range of activities that s/he cannot do on her/his own, but can do with some assistance (called scaffolding). We experiment with providing such assistance in SpeechBlocks. Our system guides the child through spelling of a word by providing hints that highlight the connection between units of pronunciation and units of spelling. The scaffolding was designed to minimally interfere with the freedom of play, and can be ignored by the child at any moment. It is important that the words which the system presents to the child match the child's interests. Currently we use the words suggested by a human literacy expert who analyzes the child's play. However, we are exploring other sources of scaffolding input, such as optical character recognition and speech recognition.
-
-The following video shows a first version of how scaffolding in SpeechBlocks.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w-soTTLXnVg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/7_-UX7kAsLQ" frameborder="0" allowfullscreen></iframe>
 
 ### Social SpeechBlocks: Word Pong
-[not currently in-progress]
+[Not currently in-progress]
 
-We are experimenting with ways to incorporate social elements into our SpeechBlocks prototype to add meaningful ways for children to interact within the app. In this video, you can see children sending their words to one another through characters.
+We are experimenting with ways to incorporate social elements into our SpeechBlocks prototype to add meaningful ways for children to interact within the app. In this video, you can see children sending their words to one another. A character, being the child's avatar on his/her friend phone, is then pronounces the word aloud.
+
+<iframe width="560" height="315" src="https://youtu.be/1hJCZQLppZI" frameborder="0" allowfullscreen></iframe>
  
-__SpeechBlocks Collaborators:__ Susan Fine, MA CCC-SLP and 826 Boston
+__SpeechBlocks Collaborators:__ Susan Fine, MA CCC-SLP and [826 Boston](http://www.826boston.org/)
