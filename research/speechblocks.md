@@ -52,7 +52,7 @@ In our research, we noticed that even the youngest children often want to create
 <br/>
 
 ### Social SpeechBlocks: Word Pong
-(Currently on hold)
+[Currently on hold]
 
 We are experimenting with ways to incorporate social elements into our SpeechBlocks prototype to add meaningful ways for children to interact within the app. In this video, you can see children sending their words to one another. A character, which is the child's avatar on his/her friend's phone, then pronounces the word aloud.
 
