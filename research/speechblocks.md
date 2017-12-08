@@ -14,28 +14,27 @@ SpeechBlocks is a smartphone app that allows children to explore spelling princi
 
 We conducted several studies with children using SpeechBlocks. We found that:
 
--> the app facilitated children’s engagement, in part through the fun of unexpected:
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ub53VqyGbHg" frameborder="0" allowfullscreen></iframe>
-
--> it evoked a sense of authorship and self-efficacy
-
+* the app facilitated children’s engagement, in part through the fun of unexpected;
+<br/>
+<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_aO74fmeLA" frameborder="0" allowfullscreen></iframe>
-
--> sometimes children would tell stories about words they made, even if those words surprised them at first:
-
+* it evoked a sense of authorship and self-efficacy;
+<br/>
+<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KfC-HSMLv04" frameborder="0" allowfullscreen></iframe>
-
--> the app evoked a significant number of social interactions between children as they explored words:
-
+* sometimes children would tell stories about words they made, even if those words surprised them at first;
+<br/>
+<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qwvISVv5TtA" frameborder="0" allowfullscreen></iframe> 
+* the app evoked a significant number of social interactions between children as they explored words.
 
 Please [see our last paper](/papers/speechblocks-final.pdf) for details.
 <br/>
 <br/>
 ### Guided SpeechBlocks
 
-In their play with SpeechBlocks, children often want to spell specific words. If adults are available, the kids will ask them for help. Such cases present valuable learning opportunities, as children's skills grow largerly within the "zone of proximate development" - the range of activities that they cannot do on their own yet, but can perform with some assistance. But what if there is no adult around willing to provide such assistance? Can the app do it on its own? We are trying to answer this question in our recent work. Our experimental system learns about the word that the child wanted to spell through one of the input channels (such as optical character recognition, as in the video below), and then helps to spell the word by highlighting the connection between sounds and letter combinations. 
+In their play with SpeechBlocks, children often want to spell specific words. If adults are available, the kids will ask them for help. Such cases present valuable learning opportunities, as children's skills grow largely within the "zone of proximate development" - the range of activities that they cannot do on their own yet, but can perform with some assistance. But what if there is no adult around willing to provide such assistance? Can the app do it on its own? We are trying to answer this question in our recent work. Our experimental system learns about the word that the child wanted to spell through one of the input channels (such as optical character recognition, as in the video below), and then helps to spell the word by highlighting the connection between sounds and letter combinations. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7_-UX7kAsLQ" frameborder="0" allowfullscreen></iframe>
 <br/>
