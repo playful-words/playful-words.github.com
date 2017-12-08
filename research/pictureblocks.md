@@ -5,8 +5,6 @@ permalink: /research/pictureblocks
 ## PictureBlocks
 *Sneha Priscilla Makini*
 
-[Currently-in-progress]
-
 One of the strongest observations in child language learning is that for a new word to be learnt, a semantic association of the word needs to be made beforehand, most often in the form of a picture. Picture Blocks is an interactive and social language learning application for young children. In addition to the pedagogical uses of pictures in the learning process, in a world where words turn into emojis, Picture Blocks helps children type out the picture they’re trying to create instead, in a constructivist manner. It includes learning through a holistic process of correlating semantics, text, and speech.
 
 <table>

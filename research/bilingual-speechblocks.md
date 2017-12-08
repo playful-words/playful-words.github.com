@@ -5,7 +5,7 @@ permalink: /research/bilingual-speechblocks
 ## Bilingual SpeechBlocks
 *Juliana Nazaré, Anneli Hershman, and Ivan Sysoev*
 
-[Currently in-progress]
+[On hold]
 
 Many children in the United States speak a language other than English in the home, yet the literacy learning mobile apps and games available do not reflect the country's growing number of bilingual children. Furthermore, to our knowledge, none of these apps provide open-ended, constructionist literacy learning opportunities for young bilinguals. 
 

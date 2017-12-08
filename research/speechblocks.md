@@ -5,8 +5,6 @@ permalink: /research/speechblocks
 ## SpeechBlocks
 *Ivan Sysoev and Anneli Hershman*
 
-[Currently in-progress]
-
 SpeechBlocks is a smartphone app that allows children to explore spelling principles in an open-ended way. Children rearrange words on the screen by pulling them apart and putting them together with their fingers. Each word formed is pronounced aloud by a speech synthesizer. The interactions afforded by the app were informed by current research findings in early literacy learning. To alleviate the fear of making a mistake, and to support fun exploration, we excluded the notion of "right" and "wrong" from our design: Nonsense words are pronounced along with regular words, much to children's amusement. While the app is intended to help children acquire basic reading and writing skills, it has also turned out to be a medium for self-expression and creativity.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eQmpQYfhUf0" frameborder="0" allowfullscreen></iframe> 
@@ -52,7 +50,7 @@ In our research, we noticed that even the youngest children often want to create
 <br/>
 
 ### Social SpeechBlocks: Word Pong
-[Currently on hold]
+[On hold]
 
 We are experimenting with ways to incorporate social elements into our SpeechBlocks prototype to add meaningful ways for children to interact within the app. In this video, you can see children sending their words to one another. A character, which is the child's avatar on his/her friend's phone, then pronounces the word aloud.
 
