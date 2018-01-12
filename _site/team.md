@@ -12,6 +12,14 @@
 	</tr>
 	<tr>
 		<td width="100px">
+			<img src="/images/team/jim-gray.jpg" width="100px">
+		</td>
+		<td>
+			<strong>Jim Gray</strong><br>Research Scientist & Learning Lead
+		</td>
+	</tr>
+	<tr>
+		<td width="100px">
 			<img src="/images/team/ivan-sysoev.jpg" width="100px">
 		</td>
 		<td>
