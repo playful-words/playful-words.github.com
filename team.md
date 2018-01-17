@@ -1,5 +1,5 @@
 
-## Team
+# Team
 
 <table>
 	<tr>
@@ -32,14 +32,6 @@
 		</td>
 		<td>
 			<strong>Anneli Hershman</strong><br>PhD Student
-		</td>
-	</tr>
-	<tr>
-		<td width="100px">
-			<img src="/images/team/mina-soltengheis.png" width="100px">
-		</td>
-		<td>
-			<strong>Mina Soltengheis</strong><br>Masters Student
 		</td>
 	</tr>
 	<tr>
@@ -92,7 +84,7 @@
 	</tr>
 </table>
 
-## Collaborators
+# Collaborators
 <table>
 	<tr>
 		<td width="100px">
@@ -100,6 +92,14 @@
 		</td>
 		<td>
 			<strong>Susan Fine, MA CCC-SLP</strong><br><a href="https://bouve.northeastern.edu/directory/susan-fine/">Website</a>
+		</td>
+	</tr>
+	<tr>
+		<td width="100px">
+			<img src="/images/team/marianna-walker.jpg" width="100px">
+		</td>
+		<td>
+			<strong>Marianna Walker, PhD CCC-SLP</strong><br><a href="http://www.ecu.edu/cs-dhs/csd/faculty/walkerm.cfm">Website</a>
 		</td>
 	</tr>
 	<tr>
@@ -112,8 +112,16 @@
 	</tr>
 </table>
 
-## Undergraduate Researchers
-Jamie Chang (Undergraduate Student, MIT)
+## MIT UROPs
+Rima Rebei
 
-## Past Contributors
-Juanita Buitrago (Masters Student, Harvard Graduate School of Education), Saul Woolf (Undergraduate Student, WPI), Claire Traweek (Undergraduate Student, MIT)
+# Alumni
+
+### Playful Words Alumni
+Mina Soltengheis
+
+### Past Contributors
+Juanita Buitrago (HGSE), Saul Woolf (WPI)
+
+### Past MIT UROPs
+Claire Traweek, Jamie Chang
