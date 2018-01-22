@@ -5,7 +5,7 @@ permalink: /research/overview
 
 ## Research
 
-We are currently working on projects in three major areas of social literacy learning: smart-expressive mediums, play analytics, and coaching roles and tools.
+We are currently working on projects in three major areas of social literacy learning: smart-expressive mediums, play analytics, and coaching tools.
 
 
 <div id="smart-expressive-mediums"></div>
