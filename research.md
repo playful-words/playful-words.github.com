@@ -30,10 +30,7 @@ __[PlayTrees](/research/playtrees)__ - Data driven analysis of play using Speech
 
 
 <div id="coaching-roles-and-tools"></div>
-#### COACHING ROLES AND TOOLS
-Developing tools that help a human coach analyze a child's play and connect with the child's caregiver on ways to support their child’s learning using our children's learning apps.
-
-__[Family Learning Coach](/research/family-learning-coach)__ -  Creating updates and activities for families on based their children’s wordplay
+#### COACHING TOOLS
 
 __[ChatterBox](/research/chatterbox)__ - Speech synthesis in tutor mode
 
