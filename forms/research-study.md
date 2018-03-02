@@ -41,6 +41,7 @@ If you have any questions or concerns about the research, please feel free to co
 * Sneha Makini (MAS Student): snehapm@mit.edu
 * Marc Exposito (MAS Student): exposito@media.mit.edu
 * Deb Roy (Faculty Sponsor): dkroy@media.mit.edu
+
 All researchers listed above can also be contacted at: at Laboratory for Social Machines, MIT Media Lab, 75 Amherst St. Cambridge MA 02139. Tel: 617-324-4914.
 
 #### EMERGENCY CARE AND COMPENSATION FOR INJURY
