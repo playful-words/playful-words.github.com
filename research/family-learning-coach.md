@@ -3,7 +3,7 @@ permalink: /research/family-learning-coach
 ---
 
 ## Family Learning Coach
-*Juliana Nazaré, Anneli Hershman, and Juanita Buitrago*
+*Juliana Nazaré and Anneli Hershman*
 
 > "Virtually every (cognitive developmental psychologist, preschool education researcher, teacher and specialist throughout United States and Canada) I saw suggested that weekly, half-hour program for parents was a necessity for the success of a children’s series. A few felt a parents’ program was even more important than one for children." — Joan Ganz Cooney (1966) [1]
 

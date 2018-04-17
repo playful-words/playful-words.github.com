@@ -32,6 +32,8 @@ __[PlayTrees](/research/playtrees)__ - Data driven analysis of play using Speech
 <div id="coaching-roles-and-tools"></div>
 #### COACHING TOOLS
 
+__[Family Learning Coach](/research/family-learning-coach)__ -  Creating updates and activities for families on based their children’s wordplay
+
 __[ChatterBox](/research/chatterbox)__ - Speech synthesis in tutor mode
 
 <hr>
