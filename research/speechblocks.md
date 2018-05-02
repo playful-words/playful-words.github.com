@@ -62,6 +62,8 @@ __Projects building on SpeechBlocks:__
 
 [Bilingual SpeechBlocks](/research/bilingual-speechblocks) - modifying SpeechBlocks to help bilingual Spanish-English speaking children differentiate between letter-to-sound mappings in their two languages
 
+[PhonoBlocks](/research/phonoblocks) - a different kind of blocks for early literacy learning.
+
 [PlayTrees](/research/playtrees) - visualizing children's play with SpeechBlocks
 
 [Literacy coaches](/research/family-learning-coach) - creating a supportive environment around the learner

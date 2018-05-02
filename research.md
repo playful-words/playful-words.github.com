@@ -14,6 +14,8 @@ Fun, engaging experiences that tap into each child’s natural instincts to play
 
 __[SpeechBlocks](/research/speechblocks)__ - Learning literacy through free play
 
+__[PhonoBlocks](/research/phonoblocks)__ - An exploration in understanding the optimal "blocks" for early literacy learning. 
+
 __[Bilingual SpeechBlocks](/research/bilingual-speechblocks)__ - Helping bilingual Spanish-English speaking children differentiate between letter-to-sound mappings in their two languages through free play
 
 __[PictureBlocks](/research/pictureblocks)__ - Helping children playfully transform words into pictures!
