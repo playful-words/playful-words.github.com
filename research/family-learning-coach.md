@@ -9,6 +9,10 @@ permalink: /research/family-learning-coach
 
 As part of our home-based pilot of <a href="/research/speechblocks/">SpeechBlocks</a>, we developed a new role, that of a Family Learning Coach. The job of the coach is to establish a relationship with the child, his/her parent, and coach the parent on ways to support their child’s learning using SpeechBlocks. 
 
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HI5eHnkL9hY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
 Data captured from a child’s use of SpeechBlocks is streamed via the internet to cloud servers, and can immediately be accessed from a remote location by the child’s coach. We have developed a coach’s dashboard powered by play analytics which enables a coach to rapidly inspect play traces collected from a child’s activity and pull out their salient achievements, or meaningful moments. The coaches then translate these moments into short personalized messages for the parent to inform them on their child's progress and provide suggestions for how to encourage new activities using SpeechBlocks, together with background knowledge about their child's path to literacy. Parents communicate with coaches via email and text messages. Coaches can also help the children expand their sphere of learning and exploration by suggesting words directly to the child's device that are based on trends in the child's play data.
 
 <table>
@@ -36,10 +40,6 @@ Data captured from a child’s use of SpeechBlocks is streamed via the internet 
 		</td>
 	</tr>
 </table>
-<br/>
-### Coaching Console in Action
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d7dCO-vHPw0" frameborder="0" allowfullscreen></iframe>
-<br/>
 <br/>
 __Acknowledgements:__ Thanks to <a href="http://www.826boston.org/">826 Boston</a> for their collaboration running this pilot program.
 
