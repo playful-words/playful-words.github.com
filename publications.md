@@ -1,5 +1,9 @@
 ## Publications
 
+### 2018
+
+Anneli Hershman\*, Juliana Nazare\*, Jie Qi\*, Martin Saveski, Deb Roy, and Mitchel Resnick. (2018). Light It Up: Using Paper Circuitry to Enhance Low-Fidelity Paper Prototypes for Children. In Proceedings of the 17th ACM Conference on Interaction Design and Children. ACM, Trondheim, Norway, pp. 365-372. [PDF](/papers/hershman_et_al_idc_2018_updated.pdf)
+
 ### 2017
 
 Juliana Nazare\*, Anneli Hershman\*, Ivan Sysoev, and Deb Roy. (2017). Bilingual SpeechBlocks: Investigating How Bilingual Children Tinker with Words in English and Spanish. In Proceedings of the Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '17). ACM, Amsterdam, Netherlands, pp. 183-193. [PDF](/papers/bilingual-speechblocks.pdf)
