@@ -2,7 +2,7 @@
 
 ### 2018
 
-Juliana Nazare\*, Anneli Hershman\*, Ivan Sysoev, Lauren Fratamico, Juanita Buitrago, Mina Soltangheis, Sneha Makini, Eric Chu, and Deb Roy. (2018). Child-Coach-Parent Network for Early Literacy Learning. In Proceedings of the Thirteenth International Conference of Learning Sciences. London, United Kingdom, pp. 1409-1410.
+Juliana Nazare\*, Anneli Hershman\*, Ivan Sysoev, Lauren Fratamico, Juanita Buitrago, Mina Soltangheis, Sneha Makini, Eric Chu, and Deb Roy. (2018). Child-Coach-Parent Network for Early Literacy Learning. In Proceedings of the Thirteenth International Conference of Learning Sciences. London, United Kingdom, pp. 1409-1410. [PDF](/papers/nazare_et_al_icls_2018.pdf)
 
 Anneli Hershman\*, Juliana Nazare\*, Jie Qi\*, Martin Saveski, Deb Roy, and Mitchel Resnick. (2018). Light It Up: Using Paper Circuitry to Enhance Low-Fidelity Paper Prototypes for Children. In Proceedings of the 17th ACM Conference on Interaction Design and Children. ACM, Trondheim, Norway, pp. 365-372. [PDF](/papers/hershman_et_al_idc_2018_updated.pdf)
 
