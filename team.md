@@ -1,4 +1,3 @@
-
 # Team
 
 <table>
@@ -8,14 +7,6 @@
 		</td>
 		<td>
 			<strong>Deb Roy</strong><br>Director
-		</td>
-	</tr>
-	<tr>
-		<td width="100px">
-			<img src="/images/team/jim-gray.jpg" width="100px">
-		</td>
-		<td>
-			<strong>Jim Gray</strong><br>Research Scientist & Learning Lead
 		</td>
 	</tr>
 	<tr>
@@ -36,14 +27,6 @@
 	</tr>
 	<tr>
 		<td width="100px">
-			<img src="/images/team/eric-chu.jpeg" width="100px">
-		</td>
-		<td>
-			<strong>Eric Chu</strong><br>PhD Student
-		</td>
-	</tr>
-	<tr>
-		<td width="100px">
 			<img src="/images/team/juliana-nazare.jpg" width="100px">
 		</td>
 		<td>
@@ -60,31 +43,32 @@
 	</tr>
 	<tr>
 		<td width="100px">
+			<img src="/images/team/nabeel-gillani.png" width="100px">
+		</td>
+		<td>
+			<strong>Nabeel Gillani</strong><br>PhD Student
+		</td>
+	</tr>
+	<tr>
+		<td width="100px">
 			<img src="/images/team/sneha-makini.jpg" width="100px">
 		</td>
 		<td>
 			<strong>Sneha Priscilla Makini</strong><br>Masters Student
 		</td>
 	</tr>
-	<tr>
+		<tr>
 		<td width="100px">
-			<img src="/images/team/marc-exposito.jpg" width="100px">
+			<img src="/images/team/sarah-ballinger.png" width="100px">
 		</td>
 		<td>
-			<strong>Marc Exposito</strong><br>Masters Student
-		</td>
-	</tr>
-	<tr>
-		<td width="100px">
-			<img src="/images/team/winston-chen.png" width="100px">
-		</td>
-		<td>
-			<strong>Winston Chen</strong><br>Research Affiliate
+			<strong>Sarah Ballinger</strong><br>Learning Loops' Program and Community Manager
 		</td>
 	</tr>
 </table>
 
 # Collaborators
+
 <table>
 	<tr>
 		<td width="100px">
@@ -112,16 +96,12 @@
 	</tr>
 </table>
 
-## MIT UROPs
-Rima Rebei
-
 # Alumni
 
 ### Playful Words Alumni
-Mina Soltengheis
+
+Marc Exposito, Mina Soltengheis
 
 ### Past Contributors
-Juanita Buitrago (HGSE), Saul Woolf (WPI)
 
-### Past MIT UROPs
-Claire Traweek, Jamie Chang
+Juanita Buitrago (HGSE), Saul Woolf (WPI), Jim Gray, Winston Chen
